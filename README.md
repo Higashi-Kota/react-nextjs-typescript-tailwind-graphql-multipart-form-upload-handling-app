@@ -1,0 +1,1 @@
+# react-nextjs-typescript-tailwind-graphql-multipart-form-upload-handling-app
